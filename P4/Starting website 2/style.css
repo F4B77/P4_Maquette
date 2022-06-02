@@ -3,8 +3,6 @@ body {
     padding: 0;
     background: #FFF;
     overflow-x: hidden;
-    -webkit-font-smoothing: antialiased;
-    -moz-osx-font-smoothing: grayscale;
 }
 
 a,
@@ -1103,4 +1101,8 @@ li a {
 
 ul {
     list-style-type: none;
+}
+
+p {
+    font-size: large;
 }
